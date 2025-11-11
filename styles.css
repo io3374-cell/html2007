@@ -106,7 +106,7 @@ nav ul {
     align-items: center;
     padding: 25px;
     margin: 10px;
-    max-width: ;
+    max-width: 15px ;
 }
 
 .main-section section {
@@ -228,7 +228,7 @@ nav {
 }
 
 nav img {
-    border: #a31b9c dotted 2px;
+    border: rgb(130,32,34) solid 2px;
 
 }
 
