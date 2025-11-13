@@ -222,19 +222,19 @@ body {
 nav {
        background-color: radial-gradient(circle at center in hsl shorter hue,
     rgb(60, 195, 205),
-    rgb(97, 3, 82));
-    border-radius: 20;
+    rgb(223, 118, 13));
+    border-radius: 20px;
        border-bottom: 2px solid #e45858;
 }
 
-nav img {
-    border: rgb(130,32,34) solid 2px;
-
+ img { 
+    border: rgb(151, 185, 231) solid 3px;
+    border-radius: 20px;
 }
 
 nav ul li a {
     text-decoration: none;
-    color: #333333;
+    color: #4d133c;
     font-weight: bold;
 }
 
